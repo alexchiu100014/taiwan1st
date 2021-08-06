@@ -1,0 +1,29 @@
+Package: tw.utamin.abypasszhtw
+Name: A-Bypass中文(台灣)化
+Version: 1.5.4
+Architecture: iphoneos-arm
+Description: A-Bypass的中文化
+Maintainer: utamin
+Author: utamin
+Section: Localization
+Depends: mobilesubstrate, preferenceloader, com.rpgfarm.a-bypass
+Filename: debs/tw.utamin.abypasszhtw_1.5.4_iphoneos-arm.deb
+Size: 2978
+MD5sum: 82b9e8261460f920eefadae2904c75f8
+SHA1: fe91c5c3466b9827619629007904f3f2595e2c59
+SHA256: 57010f8c35cb5f4eb2306c12b2f307d6b56e81403b06566bce44dba851f56862
+
+Package: tw.utamin.settingswidgetszhtw
+Name: SettingsWidgets中文(台灣)化
+Version: 1.2.2
+Architecture: iphoneos-arm
+Description: SettingsWidgets的中文化
+Maintainer: utamin
+Author: utamin
+Section: Localization
+Depends: mobilesubstrate, preferenceloader, com.shepgoba.settingswidgets
+Filename: debs/swzhtw.deb
+Size: 1814
+MD5sum: 5209d9d57770f302eaeaaf06c08fc663
+SHA1: 91b336755fa4612954d63099cf90a696b2bf5bdd
+SHA256: 295e2729905354ee5681d179708b953b6a9a7e7fc613662ef93b4af24e0b96e6
