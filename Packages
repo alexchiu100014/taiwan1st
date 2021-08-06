@@ -7,7 +7,7 @@ Maintainer: utamin
 Author: utamin
 Section: Localization
 Depends: mobilesubstrate, preferenceloader, com.shepgoba.settingswidgets
-Filename: swzhtw.deb
+Filename: debs/swzhtw.deb
 Size: 1814
 MD5sum: 5209d9d57770f302eaeaaf06c08fc663
 SHA1: 91b336755fa4612954d63099cf90a696b2bf5bdd
