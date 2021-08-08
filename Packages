@@ -57,3 +57,18 @@ Size: 73728
 MD5sum: d072cf45d0f1f3be81b841a877d880d5
 SHA1: 110b2d8d7cc38cb5202b6d62ce394d2372be9009
 SHA256: 71567fb157b13d3ce7de9ae51dd43949f7336f0c669f6341cc984e8cad948ab8
+
+Package: me.krit.pagebar
+Name: Pagebar
+Version: 0.0.1-alpha
+Architecture: iphoneos-arm
+Description: Page dots but bar.
+Maintainer: utamin
+Author: _kritanta [Finally back.]
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Filename: /debs/me.krit.pagebar_0.0.1-alpha_iphoneos-arm.deb
+Size: 24576
+MD5sum: 2d5732c5c9a726a9f3faaeda52027a3e
+SHA1: 0a75f9dfb28cb28c43535acfff4a35a2c2b9582b
+SHA256: a74bd8b3dd6822a43f3dc07725e23b125bf0a87f1a8e2142590225be388cfe11
