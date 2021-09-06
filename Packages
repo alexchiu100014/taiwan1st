@@ -133,3 +133,18 @@ Filename: /debs/akusio/milkyway2.deb
 MD5sum: 45aff19ea7b0327a72e50c4a87d68cd8
 SHA1: a779498db20097cef4783e6d817796d640bd6372
 SHA256: 9c1aa016b720ecfaa6f3176cd88454ec8767f1832306b69cda85e3ed734165e3
+
+Package: tw.utamin.sailyzhtw
+Name: Saily 繁體中文化
+Depends: mobilesubstrate, preferenceloader, wiki.qaq.chromatic.release
+Architecture: iphoneos-arm
+Description: Saily的中文化
+Maintainer: utamin
+Author: utamin
+Section: Localization
+Version: 0.0.1
+Filename: /debs/akusio/tw.utamin.sailyzhtw_1.0_iphoneos-arm.deb
+MD5sum: 262bd34dcdc7cf659596ae7d7fa9b9b4
+SHA1: e5d7e3347e3123454d03c0abb18ea646ae6eb600
+SHA256: 5ffaece04a51af9a1c552130ceb915a5fdd9c57d852056f8b41163a8ece24ef5
+
