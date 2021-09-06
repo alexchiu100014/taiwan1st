@@ -44,6 +44,36 @@ SHA1: 1ba42a51fdce9bf3052bb300bfb5defba676f14b
 SHA256: 9a36be035becfe7333e2b636c683a2cbe3824167e0e1a69052d02cf5a2ad5caa
 
 Package: me.nepeta.relocateapp
+Name: Relocate Reborn Application
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Minimalist GPS spoofer iOS 13+.
+Maintainer: utamin
+Author: Nepeta
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, me.nepeta.relocateapp, me.nepeta.relocatemodule, me.nepeta.relocatereborn
+Filename: /debs/relocate_reborn/me.nepeta.relocateapp_0.1.0_iphoneos-arm.deb
+Size: 73728
+MD5sum: 5f7f758693bd47d81cc1be53392f509a
+SHA1: 87d7e0a34b3bd4a157c0b8af4a16206ed9dee1a1
+SHA256: 33936a88a25234c7e7d93ef36b0cf9b62a6ef570ce6f2d4f776265a3d75c8665
+
+Package: me.nepeta.relocatemodule
+Name: Relocate Reborn CC Module
+Version: 0.1.1
+Architecture: iphoneos-arm
+Description: Minimalist GPS spoofer iOS 13+.
+Maintainer: utamin
+Author: Nepeta
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, me.nepeta.relocateapp, me.nepeta.relocatemodule, me.nepeta.relocatereborn
+Filename: /debs/relocate_reborn/me.nepeta.relocatemodule_0.1.1_iphoneos-arm.deb
+Size: 73728
+MD5sum: 8dc883d4e0cdc0082099e18373648003
+SHA1: e1b999b5493d3d850f3b35d810f13b172db5246c
+SHA256:7023330e007b94218aa55d17f482f9a78f5d806780c9e8e929fd27db5fbb583c
+
+Package: me.nepeta.relocatereborn
 Name: Relocate Reborn
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -51,12 +81,13 @@ Description: Minimalist GPS spoofer iOS 13+.
 Maintainer: utamin
 Author: Nepeta
 Section: Tweaks
-Depends: mobilesubstrate, preferenceloader
+Depends: mobilesubstrate, preferenceloader, me.nepeta.relocateapp, me.nepeta.relocatemodule, me.nepeta.relocatereborn
 Filename: /debs/relocate_reborn/me.nepeta.relocatereborn_1.0.1_iphoneos-arm.deb
 Size: 73728
 MD5sum: d072cf45d0f1f3be81b841a877d880d5
 SHA1: 110b2d8d7cc38cb5202b6d62ce394d2372be9009
 SHA256: 71567fb157b13d3ce7de9ae51dd43949f7336f0c669f6341cc984e8cad948ab8
+
 
 Package: me.krit.pagebar
 Name: Pagebar
