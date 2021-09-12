@@ -153,7 +153,7 @@ Section: Themes
 Maintainer: utamin
 Architecture: iphoneos-arm
 Version: 0.0.1
-Depends: com.spark.snowboard, com.anemonetheming.anemone3, com.artikus.neonboard
+Depends: com.spark.snowboard | com.anemonetheming.anemone3 | com.artikus.neonboard
 Description: プロセカのRehersal Edit.
 Name: Rehersal Edit.
 Author: utamin
