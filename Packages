@@ -157,6 +157,7 @@ Depends: com.spark.snowboard | com.anemonetheming.anemone3 | com.artikus.neonboa
 Description: プロセカのRehersal Edit.
 Name: Rehersal Edit.
 Author: utamin
+Filename: /debs/tw.utamin.comebackrehersaledit_0.0.1_iphoneos-arm.deb
 MD5sum: 60ea1affce0d4aea2915be310d1c610f
 SHA1: 5872825a9262aca535a25a3fd5098c75955f041b
 SHA256: d4648a8de7e8781487bce8d1131e27123b680c36ee95ef0d0294c17dc5fed164
