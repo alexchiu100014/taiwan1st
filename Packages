@@ -175,3 +175,17 @@ Filename: /debs/kr.xsf1re.flyjbx_1.2.5.deb
 MD5sum: 561788143465f0ab39c0ad3dad1c78c9
 SHA1: ed2e5fb4addbeef56ccc07cc0a5a270a905421f1
 SHA256: 5327516c7ef999161dd02e76e22be2927a9a47fbba21feace56e46194209e35a
+
+Package: com.brend0n.milkyway2-ios14fix
+Section: Tweaks
+Maintainer: utamin
+Architecture: iphoneos-arm
+Version: 0.0.2.1
+Depends: mobilesubstrate,firmware(>=14.0)
+Description: Make MilkyWay2 great again!
+Name: MilkyWay2-iOS14fix
+Author: Brend0n
+Filename: /debs/com.brend0n.milkyway2-ios14fix.deb
+MD5sum: 013fa949fe9cfba5d9e06960008f896b
+SHA1: c952bf9a5a72a12a30d643589ce87e966e60c495
+SHA256: fb6a7686c68898e8b89990dfd6b19873e038875b2106f4ad8e51e55ca574093d
