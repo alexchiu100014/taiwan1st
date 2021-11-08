@@ -161,3 +161,17 @@ Filename: /debs/tw.utamin.comebackrehersaledit_0.0.1_iphoneos-arm.deb
 MD5sum: 60ea1affce0d4aea2915be310d1c610f
 SHA1: 5872825a9262aca535a25a3fd5098c75955f041b
 SHA256: d4648a8de7e8781487bce8d1131e27123b680c36ee95ef0d0294c17dc5fed164
+
+Package: kr.xsf1re.flyjbx
+Section: Tweaks
+Maintainer: utamin
+Architecture: iphoneos-arm
+Version: 1.2.5
+Depends: mobilesubstrate
+Description: So,where Xsf1re go?
+Name: FlyJB X
+Author: Xsf1re
+Filename: /debs/kr.xsf1re.flyjbx_1.2.5.deb
+MD5sum: 561788143465f0ab39c0ad3dad1c78c9
+SHA1: ed2e5fb4addbeef56ccc07cc0a5a270a905421f1
+SHA256: 5327516c7ef999161dd02e76e22be2927a9a47fbba21feace56e46194209e35a
